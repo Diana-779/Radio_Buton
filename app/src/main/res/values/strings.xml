@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Radio_button</string>
+    <string name="TextView">Selecteaza disciplina preferata: </string>
+    <string name="matematica">matematica</string>
+    <string name="informatica">informatica</string>
+    <string name="chimia">chimia</string>
+    <string name="fizica">fizica</string>
+    <string name="biologia">biologia</string>
+    <string name="TrimiteButton">Trimite</string>
+
+</resources>
